@@ -1,6 +1,6 @@
 ### About me
 
-Dependant on coffee
+Amongst the top coffee consumers worldwide, I also write code.
 
 ### Languages and Tools
 
