@@ -18,6 +18,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/jake-mackie-570648251)
 <br />
-[Email](mailto:jake.wmackie@gmail.com) (primary)
+[Email](mailto:jake.wmackie@gmail.com) (Primary)
 <br />
-[Email](mailto:jakemackie31@gmail.com) (secondary)
+[Email](mailto:jakemackie31@gmail.com) (Secondary)
