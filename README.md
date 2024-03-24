@@ -1,6 +1,6 @@
 ## About me
 
-Apart from being amongst the top coffee consumers worldwide, I also write code. I love to learn and am always open to criticism, please see my works below. 
+I love to learn and am always open to criticism, see my works below. 
 
 ### Languages and Tools
 
