@@ -31,6 +31,5 @@ I love to learn and am always open to criticism, see my works below.
 
 ### Learning
 
-<img align="left" alt="vuejs" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="nuxtjs" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+<img align="left" alt="drizzle-orm" width="30px" style="padding:20px;" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" />
 <img align="left" alt="wordpress" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />       
