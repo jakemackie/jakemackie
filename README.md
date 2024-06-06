@@ -26,6 +26,8 @@ I love to learn and am always open to criticism, see my works below.
 
 <br />
 <br />
+<br />
+<br />
 
 ### Learning
 
