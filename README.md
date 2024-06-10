@@ -22,7 +22,6 @@ I love to learn and am always open to criticism, see my works below.
 <img align="left" alt="mariadb" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
 <img align="left" alt="mysql" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="postgresql" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="postman" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 <br />
 <br />
