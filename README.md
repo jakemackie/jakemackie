@@ -1,5 +1,3 @@
-## [You should click me](https://jakemackie.dev/)
-
 I love to learn and am always open to criticism, see my works below. 
 
 ### Languages and Tools
