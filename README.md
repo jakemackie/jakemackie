@@ -29,4 +29,4 @@ I love to learn and am always open to criticism, see my works below.
 ### Learning
 
 <img align="left" alt="wordpress" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="go" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />      
+<img align="left" alt="go" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />      
