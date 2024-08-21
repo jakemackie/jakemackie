@@ -8,7 +8,6 @@ I love to learn and am always open to criticism, see my works below.
 <img align="left" alt="typescript" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="javascript" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="react" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="nextjs" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="drizzle-orm" width="30px" style="padding:20px;" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" />
 <img align="left" alt="python" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="php" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -29,4 +28,5 @@ I love to learn and am always open to criticism, see my works below.
 ### Learning
 
 <img align="left" alt="wordpress" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="go" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />      
+<img align="left" alt="nextjs" width="30px" style="padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    
